@@ -1,4 +1,4 @@
-nfectious diseases and antimicrobial resistance (AMR) has become pressing 
+Infectious diseases and antimicrobial resistance (AMR) has become pressing 
 concerns in India. We aimed to comprehensively investigate the burden of them. Infectious 
 diseases remain a major public health concern in India, contributing significantly to morbidity 
 and mortality. The rising threat of bacterial antimicrobial resistance (AMR) exacerbates this 
